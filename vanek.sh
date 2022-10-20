@@ -9,3 +9,4 @@ date
 tar czf $dest/$archive_file $backup_files
 echo "Backup finished"
 #!/ hi
+#!/ hello
